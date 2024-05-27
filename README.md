@@ -1,4 +1,10 @@
 # newton-raphson-formula
+## Execution:
+-  For execution, gcc compiler must be installed on your computer.
+-  Then you can execute the code with the following command:
+    **gcc main.2.c**
+
+## Description:
 C code that provides finding square root of a number by not using math.h library
 
 Part1) Implement the interval search method in C. Read a positive integer a from the user of which square
